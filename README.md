@@ -1,7 +1,7 @@
 # starbucks_web_crawler
 ---
 ### 요약
-스타벅스 웹사이트의 매장 정보를 크롤링하고 json으로 저장하는 파이썬 코드입니다. 
+chrome driver을 이용한 스타벅스 웹사이트의 매장 정보를 크롤링하고 json으로 저장하는 파이썬 코드입니다.
 
 ### 크롤러
 1. crawler_v1_ : accurate but slow
